@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Principal {
     public static void main(String[] args)
     {
         Circulo circulo = new Circulo();
@@ -18,7 +18,7 @@ public class Main {
                 circulo.dibujar();
             }else if(menu == 3)
             {
-                triangulo.dibujar()
+                triangulo.dibujar();
             }
     
     }
