@@ -1,4 +1,4 @@
-class Triangulo implements Figura {
+public class Triangulo implements Figura {
     @Override
     public void dibujar() {
         System.out.println("Dibujar triángulo");
