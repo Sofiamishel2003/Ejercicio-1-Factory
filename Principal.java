@@ -1,4 +1,6 @@
 import java.util.Scanner;
+//Titulo es el programa de las figuras geometricas
+//Si funciona al 100%
 public class Principal {
     public static void main(String[] args)
     {
