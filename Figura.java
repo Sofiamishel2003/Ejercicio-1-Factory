@@ -1,0 +1,4 @@
+
+interface Figura {
+    void dibujar();
+}
