@@ -7,7 +7,8 @@ public class Principal {
         Triangulo triangulo = new Triangulo();
         Scanner keyboard = new Scanner(System.in);
         int menu = 0;
-        while(menu != 4);
+        while(menu != 4)
+        {
             System.out.println("¿Qué figura deseas dibujar? \n 1. Rectangulo \n 2. Circulo \n 3. Triangulo \n 4. Salir");
             menu = keyboard.nextInt();
             if(menu == 1)
@@ -20,6 +21,6 @@ public class Principal {
             {
                 triangulo.dibujar();
             }
-    
+        }
     }
 }

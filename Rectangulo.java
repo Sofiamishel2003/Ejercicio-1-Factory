@@ -2,6 +2,10 @@
 public class Rectangulo implements Figura {
     @Override
     public void dibujar() {
-        System.out.println("Dibujar rectángulo");
+        System.out.println("Dibujar rectángulo \n*********\n" + 
+        "*       *\n" + 
+        "*       *\n" + 
+        "*       *\n" + 
+        "*********");
     }
 }
