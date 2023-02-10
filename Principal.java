@@ -1,4 +1,7 @@
+
 import java.util.Scanner;
+//se importan las librerías
+//main donde se correrá todo el programa
 public class Principal {
     public static void main(String[] args)
     {
